@@ -41,7 +41,7 @@ func main() {
 			fmt.Println("I'm an int")
 		default:
 			fmt.Printf("Don't know type %T\n", t)
-		}
+		}sds
 	}
 	whatAmI(true)
 	whatAmI(1)
